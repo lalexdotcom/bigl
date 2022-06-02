@@ -532,5 +532,3 @@ const registry = (() => {
 const root = registry.root;
 
 export const LG: RootLogger = root as RootLogger;
-
-const noopVar = undefined;
