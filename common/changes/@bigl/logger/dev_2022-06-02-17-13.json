@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@bigl/logger",
+      "comment": "No op",
+      "type": "none"
+    }
+  ],
+  "packageName": "@bigl/logger"
+}
