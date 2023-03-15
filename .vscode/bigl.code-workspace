@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "@big/logger",
+			"path": "../packages/logger"
+		},
+		{
+			"name": "@big/promises",
+			"path": "../packages/promises"
+		},
+		{
+			"name": "[]",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "[]/node_modules/typescript/lib",
+		"prettier.useTabs": true,
+		"prettier.tabWidth": 4,
+		"prettier.printWidth": 120
+	}
+}

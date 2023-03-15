@@ -1,0 +1,8 @@
+{
+  "extends": "../tsconfig",
+  "compilerOptions": {
+    "rootDir": "./src" /* Specify the root folder within your source files. */,
+    "declaration": true /* Generate .d.ts files from TypeScript and JavaScript files in your project. */,
+    "outDir": "./dist" /* Specify an output folder for all emitted files. */
+  }
+}

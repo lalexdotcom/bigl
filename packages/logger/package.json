@@ -1,0 +1,21 @@
+{
+  "name": "@bigl/logger",
+  "version": "1.0.0",
+  "description": "Node & Browser console logger",
+  "main": "src/index.ts",
+  "publishConfig": {
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts"
+  },
+  "scripts": {
+    "build": "conc npm:build:*",
+    "build:rspack": "rspack",
+    "build:types": "tsc --emitDeclarationOnly"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "optionalDependencies": {
+    "chalk": "4"
+  }
+}
