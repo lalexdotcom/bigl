@@ -9,7 +9,7 @@
 			"path": "../packages/promises"
 		},
 		{
-			"name": "[]",
+			"name": "/",
 			"path": ".."
 		}
 	],
