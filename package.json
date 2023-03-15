@@ -1,6 +1,7 @@
 {
 	"scripts": {
 		"prepublish": "pnpm run -r build && changeset",
+		"version": "changeset version",
 		"publish": "changeset publish"
 	},
 	"keywords": [],
